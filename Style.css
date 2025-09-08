@@ -86,10 +86,11 @@ ul li{
   padding: 5vw;
   column-count: 4;
   column-gap: 15px;
+  box-sizing: border-box;
 }
 
 .masonry a {
-  display: inline-block;
+  display: block;
   width: 100%;
   margin-bottom: 15px;
   position: relative;
