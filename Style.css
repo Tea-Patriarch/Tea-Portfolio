@@ -82,7 +82,7 @@ ul li{
 
 
 .masonry {
-  width 100%;
+  width: 100%;
   padding: 5vw;
   column-count: 4;
   column-gap: 15px;
